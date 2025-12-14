@@ -1,3 +1,21 @@
 img{
 	/*width:50%;*/
 }
+h1{
+	color:darkred;
+	text-align:center;
+	font-family:"copperplate";
+}
+.row2{
+	background-color:#FC9288;
+	font-family:"Times new Roman", Times,serif;
+	align-items:center;
+}
+.row1{background-color:#96453E;
+	font-family:"Times new Roman", Times,serif;
+	align-items:center;
+
+}
+body{
+	background-color:beige;
+}
